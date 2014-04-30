@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="/Users/yiminggu/Downloads/twitter4j-4.0.1 (1)/lib/twitter4j-async-4.0.1.jar"/>
 	<classpathentry kind="lib" path="/Users/yiminggu/Downloads/twitter4j-4.0.1 (1)/lib/twitter4j-core-4.0.1.jar"/>
 	<classpathentry kind="lib" path="/Users/yiminggu/Downloads/libsvm-3.18/java/libsvm.jar"/>
+	<classpathentry kind="lib" path="/Users/yiminggu/Downloads/ark-tweet-nlp-0.3.2/ark-tweet-nlp-0.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
